@@ -131,17 +131,17 @@ Scenario: Clear the screen
                         "    }\r\n        ],\r\n        \"steps\": [\r\n          {\r\n            \"keyword\": \"Give" +
                         "n\",\r\n            \"name\": \"I have entered 50 into the calculator\",\r\n            \"" +
                         "line\": 9,\r\n            \"hidden\": false,\r\n            \"result\": {\r\n              " +
-                        "\"status\": \"Undefined\",\r\n              \"duration\": 1\r\n            }\r\n          }," +
+                        "\"status\": \"undefined\",\r\n              \"duration\": 1\r\n            }\r\n          }," +
                         "\r\n          {\r\n            \"keyword\": \"And\",\r\n            \"name\": \"I have entere" +
                         "d 70 into the calculator\",\r\n            \"line\": 10,\r\n            \"hidden\": false" +
-                        ",\r\n            \"result\": {\r\n              \"status\": \"Undefined\",\r\n              " +
+                        ",\r\n            \"result\": {\r\n              \"status\": \"undefined\",\r\n              " +
                         "\"duration\": 1\r\n            }\r\n          },\r\n          {\r\n            \"keyword\": " +
                         "\"When\",\r\n            \"name\": \"I press C\",\r\n            \"line\": 11,\r\n            " +
-                        "\"hidden\": false,\r\n            \"result\": {\r\n              \"status\": \"Undefined\",\r" +
+                        "\"hidden\": false,\r\n            \"result\": {\r\n              \"status\": \"undefined\",\r" +
                         "\n              \"duration\": 1\r\n            }\r\n          },\r\n          {\r\n        " +
                         "    \"keyword\": \"Then\",\r\n            \"name\": \"the screen should be empty\",\r\n     " +
                         "       \"line\": 12,\r\n            \"hidden\": false,\r\n            \"result\": {\r\n     " +
-                        "         \"status\": \"Undefined\",\r\n              \"duration\": 1\r\n            }\r\n   " +
+                        "         \"status\": \"undefined\",\r\n              \"duration\": 1\r\n            }\r\n   " +
                         "       }", ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
@@ -227,13 +227,13 @@ Scenario: Scenario with large data table
                         "tags\": [],\r\n        \"steps\": [\r\n          {\r\n            \"keyword\": \"Given\",\r\n  " +
                         "          \"name\": \"a feature with a large table of data:\",\r\n            \"line\": " +
                         "8,\r\n            \"hidden\": false,\r\n            \"result\": {\r\n              \"status" +
-                        "\": \"Undefined\",\r\n              \"duration\": 1\r\n            }\r\n          },\r\n     " +
+                        "\": \"undefined\",\r\n              \"duration\": 1\r\n            }\r\n          },\r\n     " +
                         "     {\r\n            \"keyword\": \"When\",\r\n            \"name\": \"I click on the tabl" +
                         "e heading\",\r\n            \"line\": 32,\r\n            \"hidden\": false,\r\n            " +
-                        "\"result\": {\r\n              \"status\": \"Undefined\",\r\n              \"duration\": 1\r\n" +
+                        "\"result\": {\r\n              \"status\": \"undefined\",\r\n              \"duration\": 1\r\n" +
                         "            }\r\n          },\r\n          {\r\n            \"keyword\": \"Then\",\r\n      " +
                         "      \"name\": \"the table body should collapse\",\r\n            \"line\": 33,\r\n      " +
-                        "      \"hidden\": false,\r\n            \"result\": {\r\n              \"status\": \"Undefi" +
+                        "      \"hidden\": false,\r\n            \"result\": {\r\n              \"status\": \"undefi" +
                         "ned\",\r\n              \"duration\": 1\r\n            }\r\n          }", ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }

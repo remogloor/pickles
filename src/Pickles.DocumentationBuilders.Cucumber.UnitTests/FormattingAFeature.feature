@@ -52,7 +52,7 @@ Scenario: A simple feature
             "line": 9,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           },
@@ -62,7 +62,7 @@ Scenario: A simple feature
             "line": 10,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           },
@@ -72,7 +72,7 @@ Scenario: A simple feature
             "line": 11,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           },
@@ -82,7 +82,7 @@ Scenario: A simple feature
             "line": 12,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           }
@@ -154,7 +154,7 @@ Scenario: A feature with a table
             "line": 8,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           },
@@ -164,7 +164,7 @@ Scenario: A feature with a table
             "line": 32,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           },
@@ -174,7 +174,7 @@ Scenario: A feature with a table
             "line": 33,
             "hidden": false,
             "result": {
-              "status": "Undefined",
+              "status": "undefined",
               "duration": 1
             }
           }
